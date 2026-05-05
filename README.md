@@ -77,4 +77,4 @@ Once set up, the framework runs on three commands:
 
 ## Note on Claude Code Projects
 
-This framework is designed for **non-Claude Code projects** running inside Cowork. If you're managing a Claude Code project with its own repository, a separate Claude Code-native governance framework may be more appropriate.
+This framework is designed for **non-Claude Code projects** running inside Cowork. If you're managing a Claude Code project with its own repository, a separate Claude Code-native governance framework may be more appropriate, such as the [bcf-governance](https://github.com/mjgolaszewski/bcf-governance) framework this was based on.
